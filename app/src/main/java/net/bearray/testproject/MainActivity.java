@@ -13,6 +13,7 @@ public class MainActivity extends Activity {
 
 
         Log.d("hy","tsssss");
+        Log.d("xl", "c=test log");
 
         }
 
